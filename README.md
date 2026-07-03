@@ -1,14 +1,22 @@
 <div align="center">
 
-<h1>Hi, I'm chi-ga</h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+  Hi, I'm chi-ga
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75582&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Always+learning%2C+always+building.)
 
+<p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+
 </div>
 
----
-
-## Featured Projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Featured%20Projects&fontSize=30&fontColor=gradient&fontAlignY=35&desc=My%20awesome%20projects&descSize=15&descAlignY=55&animation=fadeIn" width="100%"/>
+</div>
 
 <table>
   <tr>
@@ -35,9 +43,9 @@
   </tr>
 </table>
 
----
-
-## Connect With Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=gradient&fontAlignY=35&desc=Let's%20connect!&descSize=15&descAlignY=55&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -51,9 +59,9 @@
 
 </div>
 
----
-
-## Activity Graph
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Activity%20Graph&fontSize=30&fontColor=gradient&fontAlignY=35&desc=My%20GitHub%20activity&descSize=15&descAlignY=55&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -61,12 +69,12 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=gradient&fontAlignY=45&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chi-ga&color=blueviolet&style=for-the-badge)
-
-**Thanks for visiting!**
 
 </div>
