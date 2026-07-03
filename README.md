@@ -21,8 +21,6 @@
         <img src="https://img.shields.io/badge/Tailwind-3-38bdf8?logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-6-purple?logo=vite&logoColor=white" />
       </p>
-      <a href="https://github.com/chi-ga/city-subsidy-radar">
-      </a>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/chi-ga/SmartGestureHome">SmartGestureHome</a></h3>
@@ -33,12 +31,6 @@
         <img src="https://img.shields.io/badge/PyQt5-5.15-blue" />
         <img src="https://img.shields.io/badge/ESP32-Arduino-green?logo=espressif&logoColor=white" />
       </p>
-      <a href="https://github.com/chi-ga/SmartGestureHome">
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Streak
