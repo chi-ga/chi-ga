@@ -1,63 +1,41 @@
 <div align="center">
 
-# ◈ chi-ga ◈
+# 👋 Hi, I'm Chi-Ga
 
 **Full Stack Developer · Open Source Enthusiast · Lifelong Learner**
 
-*在代码的世界里，用逻辑编织故事*
+<br>
+
+<a href="https://github.com/chi-ga">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 </div>
 
 ---
 
-## ◈ 关于我
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🔭  当前专注于    构建有意义的项目                           │
-│  🌱  正在学习      新技术与最佳实践                          │
-│  👯  寻求合作      开源项目与技术交流                        │
-│  💬  擅长领域      Web开发 · 编程 · 技术分享                 │
-│  ⚡  趣味事实      我相信代码是诗歌的另一种形式               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## ◈ 技术栈
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ◈ 语言         ◈ 框架          ◈ 工具                    │
-│   ──────────    ──────────     ──────────                  │
-│   JavaScript    React          Git                         │
-│   TypeScript    Vue.js         VS Code                     │
-│   Python        Node.js        Docker                      │
-│   HTML/CSS      Next.js        Figma                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## ◈ GitHub 数据
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/chi-ga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chi-ga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi-ga&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chi-ga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi-ga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 
 <br>
@@ -70,7 +48,7 @@
 
 ---
 
-## ◈ 成就
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -82,51 +60,39 @@
 
 ---
 
-## ◈ 连接
+## 🔗 Connect With Me
 
 <div align="center">
 
-```
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   [GitHub]    →    github.com/chi-ga                        │
-│   [Email]     →    你的邮箱@example.com                      │
-│   [LinkedIn]  →    linkedin.com/in/你的用户名                │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
+<a href="https://github.com/chi-ga">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/your-twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
 
 </div>
 
 ---
 
-## ◈ 设计理念
+## 📈 Visitor Count
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ◈ 少即是多                                                │
-│     每一个元素都有存在的理由                                  │
-│                                                             │
-│   ◈ 形式追随功能                                            │
-│     美丽源于简洁和实用                                       │
-│                                                             │
-│   ◈ 细节决定成败                                            │
-│     在别人看不见的地方也要用心                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-*「代码是诗歌，技术是画笔，创意是灵魂」*
 
 <img src="https://komarev.com/ghpvc/?username=chi-ga&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+*✨ "Code is poetry" ✨*
 
 </div>
