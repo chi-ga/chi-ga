@@ -22,7 +22,6 @@
         <img src="https://img.shields.io/badge/Vite-6-purple?logo=vite&logoColor=white" />
       </p>
       <a href="https://github.com/chi-ga/city-subsidy-radar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chi-ga&repo=city-subsidy-radar&theme=catppuccin_mocha&hide_border=true" />
       </a>
     </td>
     <td width="50%">
@@ -35,7 +34,6 @@
         <img src="https://img.shields.io/badge/ESP32-Arduino-green?logo=espressif&logoColor=white" />
       </p>
       <a href="https://github.com/chi-ga/SmartGestureHome">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chi-ga&repo=SmartGestureHome&theme=catppuccin_mocha&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -67,6 +65,9 @@
 
 <a href="https://github.com/chi-ga">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.xiaohongshu.com/user/profile/60bc798d0000000001007c63">
+  <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
 </a>
 <a href="mailto:hwangchiga@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
