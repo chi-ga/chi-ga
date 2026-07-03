@@ -4,6 +4,14 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75582&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Always+learning%2C+always+building.)
 
+<a href="https://www.xiaohongshu.com/user/profile/60bc798d0000000001007c63" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/小红书-Chiga的日记本-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
+</a>
+
+<a href="mailto:hwangchiga@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Gmail-hwangchiga%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
@@ -38,22 +46,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=gradient&fontAlignY=35&desc=Let's%20connect!&descSize=15&descAlignY=55&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-
-<a href="https://www.xiaohongshu.com/user/profile/60bc798d0000000001007c63" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/小红书-Chiga的日记本-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
-</a>
-
-<a href="mailto:hwangchiga@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Gmail-hwangchiga%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Activity%20Graph&fontSize=30&fontColor=gradient&fontAlignY=35&desc=My%20GitHub%20activity&descSize=15&descAlignY=55&animation=fadeIn" width="100%"/>
