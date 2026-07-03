@@ -1,10 +1,6 @@
 <div align="center">
 
-<h1>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
-  Hi, I'm chi-ga
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
-</h1>
+<h1>Hi, I'm chi-ga</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75582&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Always+learning%2C+always+building.)
 
