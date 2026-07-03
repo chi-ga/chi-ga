@@ -31,6 +31,10 @@
         <img src="https://img.shields.io/badge/PyQt5-5.15-blue" />
         <img src="https://img.shields.io/badge/ESP32-Arduino-green?logo=espressif&logoColor=white" />
       </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Streak
