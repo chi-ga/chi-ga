@@ -59,11 +59,12 @@
 
 <div align="center">
 
-<a href="https://www.xiaohongshu.com/user/profile/60bc798d0000000001007c63">
-  <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
+<a href="https://www.xiaohongshu.com/user/profile/60bc798d0000000001007c63" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/小红书-Chiga的日记本-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
 </a>
-<a href="mailto:hwangchiga@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<a href="mailto:hwangchiga@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Gmail-hwangchiga%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
