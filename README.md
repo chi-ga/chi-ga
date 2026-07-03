@@ -37,24 +37,6 @@
 
 ---
 
-## Streak
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chi-ga&theme=catppuccin_mocha&hide_border=true)
-
-</div>
-
-## Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chi-ga&theme=catppuccin&hide_border=true&area=true)
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -66,6 +48,16 @@
 <a href="mailto:hwangchiga@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Gmail-hwangchiga%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chi-ga&theme=catppuccin&hide_border=true&area=true)
 
 </div>
 
