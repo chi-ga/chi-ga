@@ -1,16 +1,22 @@
+<table>
+  <tr>
+    <td>
+      <h1>👋 Hi, I'm Chi-Ga</h1>
+      <p><strong>Full Stack Developer · Open Source Enthusiast · Lifelong Learner</strong></p>
+      <p>
+        <a href="https://github.com/chi-ga">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-
-# 👋 Hi, I'm Chi-Ga
-
-**Full Stack Developer · Open Source Enthusiast · Lifelong Learner**
-
-<br>
-
-<a href="https://github.com/chi-ga">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</a>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -31,20 +37,27 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/chi-ga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chi-ga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi-ga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
-
-<br>
-
-<a href="https://github.com/chi-ga">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chi-ga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/chi-ga">
+        <img src="https://github-readme-stats.vercel.app/api?username=chi-ga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/chi-ga">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi-ga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/chi-ga">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chi-ga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,4 +95,3 @@
 <img src="https://komarev.com/ghpvc/?username=chi-ga&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
-
