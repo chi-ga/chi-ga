@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>城市补贴雷达</h3>
+      <h3><a href="https://github.com/chi-ga/city-subsidy-radar">城市补贴雷达</a></h3>
       <p>应届毕业生的补贴查询神器 — 覆盖 64 城，输入学历/院校/专业，一键匹配你能领的补贴，生成落地待办清单。</p>
       <p>
         <img src="https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white" />
@@ -26,7 +26,7 @@
       </a>
     </td>
     <td width="50%">
-      <h3>SmartGestureHome</h3>
+      <h3><a href="https://github.com/chi-ga/SmartGestureHome">SmartGestureHome</a></h3>
       <p>基于 MediaPipe + ESP32 的智能家居手势控制系统 — 摄像头实时识别 12 种手势，串口控制灯光/窗帘/风扇/电视/空调/音响。</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white" />
