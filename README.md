@@ -1,78 +1,156 @@
-# Hi there, I'm Chi-Ga! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║     ██████╗██╗  ██╗██╗      ██████╗  ██████╗  █████╗                     ║
+║    ██╔════╝██║  ██║██║     ██╔════╝ ██╔════╝ ██╔══██╗                    ║
+║    ██║     ███████║██║     ██║  ███╗██║  ███╗███████║                    ║
+║    ██║     ██╔══██║██║     ██║   ██║██║   ██║██╔══██║                    ║
+║    ╚██████╗██║  ██║███████╗╚██████╔╝╚██████╔╝██║  ██║                    ║
+║     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝                    ║
+║                                                                            ║
+║        D E V E L O P E R  ·  C R E A T O R  ·  L E A R N E R            ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
 
-## 🚀 About Me
+## ◈ 核心理念
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, programming, and tech**
-- 📫 How to reach me: **[GitHub](https://github.com/chi-ga)**
-- ⚡ Fun fact: **I love coding and learning new things!**
+> *代码是诗歌，技术是画笔，创意是灵魂*
+
+我不是在写代码，我是在用逻辑编织故事。
+每一行代码都是一个音符，每一个项目都是一首交响乐。
 
 ---
 
-## 🛠️ Tech Stack
+## ◈ 技术诗篇
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nodejs,python,git,github,vscode,figma" alt="Tech Stack" />
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│  ◈ 语 言          ◈ 框 架          ◈ 工 具                             │
+│  ────────────     ────────────     ────────────                        │
+│  JavaScript       React            Git                                 │
+│  TypeScript       Vue.js           VS Code                             │
+│  Python           Node.js          Figma                               │
+│  HTML/CSS         Next.js          Docker                              │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ◈ 创作轨迹
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chi-ga&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chi-ga&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi-ga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+```
+╭────────────────────────────────────────────────────────────────────────╮
+│                                                                        │
+│  ◈ 当下                                                                │
+│  ─────                                                                │
+│  构建有意义的项目，探索技术的边界                                          │
+│                                                                        │
+│  ◈ 追寻                                                                │
+│  ─────                                                                │
+│  与全球开发者协作，共同创造开源价值                                        │
+│                                                                        │
+│  ◈ 信仰                                                                │
+│  ─────                                                                │
+│  简洁是终极的复杂，代码是思想的延伸                                        │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
+```
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chi-ga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/chi-ga">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
 </div>
 
 ---
 
-## 📈 Visitor Count
+## ◈ 数据维度
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chi-ga&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   │
+│                                                                        │
+│   ██████████████████████████████████████████████████████  100%  热情   │
+│   ████████████████████████████████████████████████████    95%  专注   │
+│   ██████████████████████████████████████████████████      90%  好奇   │
+│   ████████████████████████████████████████████████        85%  创造   │
+│                                                                        │
+│   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## ◈ 连接方式
+
+<div align="center">
+
+```
+╭────────────────────────────────────────────────────────────────────────╮
+│                                                                        │
+│   [GitHub]     →     github.com/chi-ga                                 │
+│                                                                        │
+│   [Email]      →     你的邮箱@example.com                               │
+│                                                                        │
+│   [LinkedIn]   →     linkedin.com/in/你的用户名                         │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## ◈ 设计哲学
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│   ◈ 少即是多                                                            │
+│     每一个元素都有存在的理由                                              │
+│                                                                        │
+│   ◈ 形式追随功能                                                         │
+│     美丽源于简洁和实用                                                   │
+│                                                                        │
+│   ◈ 细节决定成败                                                         │
+│     在别人看不见的地方也要用心                                             │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
 
 <div align="center">
-  <i>✨ "Code is poetry" ✨</i>
+
+*「在代码的世界里，我是诗人；在技术的海洋中，我是探索者。」*
+
+```
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   █                                                                     █
+   █         ◈ ◈ ◈   设 计 · 代 码 · 创 意   ◈ ◈ ◈                       █
+   █                                                                     █
+   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
 </div>
