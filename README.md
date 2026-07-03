@@ -55,9 +55,6 @@
 
 <div align="center">
 
-<a href="https://github.com/chi-ga">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://www.xiaohongshu.com/user/profile/60bc798d0000000001007c63">
   <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
 </a>
